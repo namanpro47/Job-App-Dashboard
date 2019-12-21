@@ -1,0 +1,19 @@
+{
+  "name": "massapply",
+  "version": "1.0.0",
+  "description": "Unified Job App Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namanpro47/Job-App-Dashboard.git"
+  },
+  "author": "Naman Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namanpro47/Job-App-Dashboard/issues"
+  },
+  "homepage": "https://github.com/namanpro47/Job-App-Dashboard#readme"
+}
