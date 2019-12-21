@@ -2,7 +2,8 @@
 Unified Portal for tracking Job Applications to Tech Jobs
 
 ### Added Features:
-- [ ] Given desired role, provide URLs for all correct job links
+- [X] Given desired role, provide URLs for default job links (12/21/19)
+- [ ] Generate custom links for each role + company (and verify accuracy)
 - [ ] Account Login (via linkedIn?) and information saving via MongoDB
 - [ ] Spreadsheet UI layout
 - [ ] Search/Add Additional Companies, with key information from companies

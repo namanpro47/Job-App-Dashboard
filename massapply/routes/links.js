@@ -34,6 +34,10 @@ var path = require('path');
 var input = fs.createReadStream(path.join(__dirname, '../text/companies.txt'));
 readLines(input, func);
 
+//START Google Query
+
+//END Google Query
+
 /* GET users listing. */
 router.get('/', function(req, res, next) {
   res.send(input);
